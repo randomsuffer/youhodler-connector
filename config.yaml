@@ -1,0 +1,3 @@
+bearer_token: "<Enter your bearer token here>"
+device_uuid: "<Enter your device UUID here>"
+api_endpoint: "<Enter endpoint here>"
